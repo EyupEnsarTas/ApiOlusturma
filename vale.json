@@ -1,0 +1,218 @@
+{
+    "valeler": [
+        {
+            "id": 1,
+            "name": "berat",
+            "surname": "ulu",
+            "age": 21,
+            "carId": "1,2,3"
+        },
+        {
+            "id": 2,
+            "name": "eyup",
+            "surname": "tash",
+            "age": 21,
+            "carId": "4,5,6"
+        },
+        {
+            "id": 3,
+            "name": "turan",
+            "surname": "aksoy",
+            "age": 21,
+            "carId": "7,8,9"
+        },
+        {
+            "id": 4,
+            "name": "nisa",
+            "surname": "tash",
+            "age": 21,
+            "carId": "10,11,12"
+        },
+        {
+            "id": 5,
+            "name": "hesna",
+            "surname": "yavuzer",
+            "age": 21,
+            "carId": ""
+        },
+        {
+            "id": 6,
+            "name": "kerem",
+            "surname": "shen",
+            "age": 19,
+            "carId": ""
+        },
+        {
+            "id": 7,
+            "name": "eren",
+            "surname": "shen",
+            "age": 26,
+            "carId": ""
+        },
+        {
+            "id": 8,
+            "name": "fatih",
+            "surname": "wolf",
+            "age": 28,
+            "carId": ""
+        },
+        {
+            "id": 9,
+            "name": "dilara",
+            "surname": "kula",
+            "age": 21,
+            "carId": ""
+        },
+        {
+            "id": 10,
+            "name": "nazlı",
+            "surname": "wolf",
+            "age": 21,
+            "carId": ""
+        },
+        {
+            "id": 11,
+            "name": "mehmet",
+            "surname": "şahin",
+            "age": 19,
+            "carId": ""
+        }
+        
+    ],
+    "cars": [
+        {
+            "id": 1,
+            "plaka": "16aa16",
+            "model": "ford",
+            "carsActID": "1",
+            "numberGsm": "05005003030"
+        },
+        {
+            "id": 2,
+            "plaka": "16ab16",
+            "model": "nissan",
+            "carsActID": "2",
+            "numberGsm": "05005003030"
+        },
+        {
+            "id": 3,
+            "plaka": "16ac16",
+            "model": "mercedes",
+            "carsActID": "3",
+            "numberGsm": "05005003030"
+        },
+        {
+            "id": 4,
+            "plaka": "16ad16",
+            "model": "honda",
+            "carsActID": "4",
+            "numberGsm": "05005003030"
+        },
+        {
+            "id": 5,
+            "plaka": "16ag16",
+            "model": "toyota",
+            "carsActID": "5",
+            "numberGsm": "05005003030"
+        },
+        {
+            "id": 6,
+            "plaka": "16ah16",
+            "model": "mazda",
+            "carsActID": "6",
+            "numberGsm": "05005003030"
+        },
+        {
+            "id": 7,
+            "plaka": "16aj16",
+            "model": "bmw",
+            "carsActID": "7",
+            "numberGsm": "05005003030"
+        },
+        {
+            "id": 8,
+            "plaka": "16ak16",
+            "model": "porche",
+            "carsActID": "8",
+            "numberGsm": "05005003030"
+        },
+        {
+            "id": 9,
+            "plaka": "16al16",
+            "model": "hyundai",
+            "carsActID": "9",
+            "numberGsm": "05005003030"
+        },
+        {
+            "id": 10,
+            "plaka": "16aq16",
+            "model": "leon",
+            "carsActID": "10",
+            "numberGsm": "05005003030"
+        },
+        {
+            "id": 11,
+            "plaka": "16aw16",
+            "model": "bmw",
+            "carsActID": "11",
+            "numberGsm": "05005003030"
+        },
+        {
+            "id": 12,
+            "plaka": "16ae16",
+            "model": "ford",
+            "carsActID": "12",
+            "numberGsm": "05005003030"
+        }
+    ],
+    "carsAct": [
+        {
+            "id": 1,
+            "inout": "1"
+        },
+        {
+            "id": 2,
+            "inout": "1"
+        },
+        {
+            "id": 3,
+            "inout": "1"
+        },
+        {
+            "id": 4,
+            "inout": "1"
+        },
+        {
+            "id": 5,
+            "inout": "1"
+        },
+        {
+            "id": 6,
+            "inout": "1"
+        },
+        {
+            "id": 7,
+            "inout": "1"
+        },
+        {
+            "id": 8,
+            "inout": "1"
+        },
+        {
+            "id": 9,
+            "inout": "1"
+        },
+        {
+            "id": 10,
+            "inout": "1"
+        },
+        {
+            "id": 11,
+            "inout": "1"
+        },
+        {
+            "id": 12,
+            "inout": "1"
+        }
+    ]
+}

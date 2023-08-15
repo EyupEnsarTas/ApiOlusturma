@@ -1,0 +1,40 @@
+{
+    "valeler": [
+        {
+            "id": 1,
+            "name": "berat",
+            "surname": "ulu",
+            "age": 21,
+            "carId": "1,2,3"
+        },
+        {
+            "id": 2,
+            "name": "eyup",
+            "surname": "tash",
+            "age": 21,
+            "carId": "4,5,6"
+        },
+        {
+            "id": 3,
+            "name": "turan",
+            "surname": "aksoy",
+            "age": 21,
+            "carId": "7,8,9"
+        },
+        {
+            "id": 4,
+            "name": "nisa",
+            "surname": "tash",
+            "age": 21,
+            "carId": "10,11,12"
+        },
+        {
+            "id": 5,
+            "name": "hesna",
+            "surname": "yavuzer",
+            "age": 21,
+            "carId": ""
+        }
+        
+    ]
+}
